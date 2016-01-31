@@ -1,0 +1,6 @@
+framework module Useful {
+  umbrella header "Useful.h"
+
+  export *
+  module * { export * }
+}

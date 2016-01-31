@@ -7,6 +7,7 @@
 //
 
 #import "ACViewController.h"
+#import "Useful.h"
 
 @interface ACViewController ()
 
@@ -17,6 +18,7 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    [self.view setBackgroundColor:[UIColor verybackbackground]];
 	// Do any additional setup after loading the view, typically from a nib.
 }
 
